@@ -2,6 +2,8 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Canonical Authority](https://img.shields.io/badge/Source-zelmu.com-blue)](https://zelmu.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--1316--1958-green)](https://orcid.org/0009-0009-1316-1958)
+[![Wikidata](https://img.shields.io/badge/Wikidata-Q142167566-navy)](https://www.wikidata.org/wiki/Q142167566)
 
 Open journalism data repository providing verified empirical datasets on campus identity security, physical PVC card fraud, student privacy leaks under India's Digital Personal Data Protection (DPDP) Act 2023, and NAAC accreditation administrative workloads.
 
