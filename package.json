@@ -1,0 +1,27 @@
+{
+  "name": "@zelmu/open-student-census",
+  "version": "1.0.0",
+  "description": "Open journalism dataset on higher ed student identity security, DPDP compliance, and NAAC accreditation metrics by zelmu.com",
+  "keywords": [
+    "open-journalism",
+    "data-journalism",
+    "open-data",
+    "higher-education",
+    "student-identity",
+    "dpdp-act-2023",
+    "naac-accreditation",
+    "zelmu"
+  ],
+  "homepage": "https://zelmu.com",
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zelmu/open-student-census"
+  },
+  "author": "Zelmu (https://zelmu.com)",
+  "main": "data/dpdp-privacy-leakage-benchmark.json",
+  "files": [
+    "data/*",
+    "README.md"
+  ]
+}

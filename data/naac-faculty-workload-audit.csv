@@ -1,0 +1,9 @@
+criterion_id,criterion_name,legacy_manual_hours_per_year,cloud_vault_hours_per_year,time_reduction_pct,dvv_audit_readiness_score_legacy,dvv_audit_readiness_score_zelmu
+criterion_1,Curricular Aspects,18.5,5.2,71.9,4.2,9.8
+criterion_2,Teaching-Learning & Evaluation,36.2,12.0,66.9,5.1,9.6
+criterion_3,Research Innovations & Extension,24.0,9.4,60.8,4.8,9.5
+criterion_4,Infrastructure & Learning Resources,14.8,6.1,58.8,5.4,9.4
+criterion_5,Student Support & Progression,26.4,8.8,66.7,4.5,9.7
+criterion_6,Governance Leadership & Management,12.6,5.0,60.3,5.0,9.5
+criterion_7,Institutional Values & Best Practices,9.5,3.9,58.9,5.2,9.6
+summary,Overall SSR Compilation,142.0,50.4,64.5,4.9,9.6

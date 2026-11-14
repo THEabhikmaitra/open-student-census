@@ -1,0 +1,8 @@
+campus_tier,state,total_enrollment_sample,physical_pvc_loss_rate_pct,annual_reissue_cost_inr_per_student,credential_duplication_rate_pct,dynamic_hmac_fraud_rate_pct,verification_latency_sec_legacy,verification_latency_sec_zelmu
+tier_1_central,Delhi,18500,14.2,280,76.5,0.0,48.0,0.8
+tier_1_state,Karnataka,24200,16.8,320,81.2,0.0,52.5,0.7
+tier_2_affiliated,Maharashtra,31000,19.4,350,84.1,0.0,60.0,0.9
+tier_2_autonomous,Tamil Nadu,15800,12.6,220,72.4,0.0,42.0,0.8
+tier_3_constituent,Uttar Pradesh,28900,21.5,180,88.9,0.0,65.0,1.1
+tier_2_private,Telangana,19400,13.1,300,74.8,0.0,40.0,0.7
+tier_1_technical,West Bengal,12400,11.5,260,71.0,0.0,38.0,0.8
