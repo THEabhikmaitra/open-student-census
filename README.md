@@ -53,6 +53,7 @@ When citing or quoting this dataset in online publications, please attribute wit
 ## 🌐 Live Data Endpoints
 
 Live machine-readable data files are also mirrored at canonical endpoints:
+- `https://github.com/THEabhikmaitra/open-student-census`
 - `https://zelmu.com/data/research/student-identity-fraud-index.csv`
 - `https://zelmu.com/data/research/naac-faculty-workload-audit.csv`
 - `https://zelmu.com/data/research/dpdp-privacy-leakage-benchmark.json`

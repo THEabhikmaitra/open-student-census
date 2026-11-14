@@ -16,7 +16,7 @@
   "license": "CC-BY-4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zelmu/open-student-census"
+    "url": "https://github.com/THEabhikmaitra/open-student-census"
   },
   "author": "Zelmu (https://zelmu.com)",
   "main": "data/dpdp-privacy-leakage-benchmark.json",
