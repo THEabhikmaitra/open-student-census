@@ -1,0 +1,45 @@
+{
+  "title": "Open Student Census & Higher Ed Identity Security Dataset",
+  "description": "Empirical datasets on campus student identity security, physical PVC card loss and reissue costs across university tiers in India, DPDP Act 2023 privacy leakage across commercial student benefit platforms, and NAAC accreditation faculty workload audits.",
+  "creators": [
+    {
+      "name": "Maitra, Abhik",
+      "orcid": "0009-0009-1316-1958",
+      "affiliation": "Zelmu Research Unit"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "higher education",
+    "student identity",
+    "dpdp act 2023",
+    "naac accreditation",
+    "open data",
+    "campus security",
+    "zelmu"
+  ],
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://zelmu.com",
+      "scheme": "url"
+    },
+    {
+      "relation": "hasPart",
+      "identifier": "https://www.wikidata.org/wiki/Q142167566",
+      "scheme": "url"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://zelmu.com/data/research",
+      "scheme": "url"
+    }
+  ]
+}

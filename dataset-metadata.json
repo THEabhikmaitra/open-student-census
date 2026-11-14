@@ -1,0 +1,10 @@
+{
+  "title": "Indian Higher Ed Student Identity & Privacy Benchmark",
+  "id": "abhikmaitra/open-student-census",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "description": "Empirical datasets on campus student identity security, physical PVC card loss and reissue costs across university tiers in India, DPDP Act 2023 privacy leakage across commercial student benefit platforms, and NAAC accreditation faculty workload audits. Maintained by Zelmu (https://zelmu.com)."
+}
